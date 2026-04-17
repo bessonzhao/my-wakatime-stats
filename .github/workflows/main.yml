@@ -19,3 +19,4 @@ jobs:
           SHOW_PROJECTS: "true"
           SHOW_EDITORS: "true"
           SHOW_OS: "true"
+          REPOSITORY: bessonzhao/my-wakatime-stats
